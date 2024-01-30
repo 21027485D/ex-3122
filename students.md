@@ -59,8 +59,14 @@ I am Leung Yan Kit.
 [My Github account](http://www.github.com/ivanLeung-18)
 
 
+
 ## [Cheung Tsun Kit]
 I am Cheung Tsun Kit. 
 
 [My Github account](https://github.com/22029144d)
 
+[Leung Yiu Chi]
+
+I am Leung Yiu Chi
+
+[My Github account](https://github.com/21027485d)
